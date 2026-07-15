@@ -2,22 +2,6 @@
 
 Welcome to the class repository! Here's how to upload your assignments using pull requests.
 
-## 📋 Your Branch
-
-Find your name in the list:
-- Yossef-Medhat-Ali
-- Ahmed-Ashour
-- Ahmed-Yasser
-- Fady-Samy
-- Hagar-Emadeldin-Emara
-- Marium-Waleed
-- Menna-Assem-Fouda
-- Mostafa-Tamer
-- Youssef-Bassem
-- Youssef-medhat-mahmoud
-- Mohamed-Ahmed-Ahmed
-- Mohamed-Mostafa-Abd-El-Aziz
-
 ## 📁 How to Upload Files Using Pull Requests
 
 ### Step 1: Fork the Repository
@@ -48,15 +32,19 @@ Find your name in the list:
 8. Click **Create pull request**
 
 ### Step 4: Wait for Approval
-- Yossef will review your pull request
 - Once approved, your files will be added to the main repository ✅
+
+## 📁 Or you can upload Files Using direct access (Must send me you github username so I can add you as a collaborator)
+
+1. Go to the repository: https://github.com/yossef-helal/ADI-Internship-2026
+2. Click the branch dropdown at the top left (currently showing "main")
+3. Select **your name** from the list
+4. Click **"Add file"** → **"Create new file"** or **"Upload files"**
+5. Upload or create your files
+6. Scroll down and click **"Commit changes"**
+7. Done! Your files are saved.
 
 ## ⚠️ Important
 
 - Only work on **your own branch**
-- One pull request per assignment
 - Add clear titles and descriptions to your pull requests
-
----
-
-Questions? Ask Yossef!
