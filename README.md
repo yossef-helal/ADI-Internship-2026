@@ -1,22 +1,62 @@
 # ADI Internship 2026
 
-Welcome to the class repository! Here's how to upload your assignments using the website (no terminal needed).
+Welcome to the class repository! Here's how to upload your assignments using pull requests.
 
-## 📁 How to Upload Files
+## 📋 Your Branch
 
-1. Click the branch dropdown at the top left (currently showing "main")
-2. Select **your name** from the list
-3. Click **"Add file"** → **"Create new file"** or **"Upload files"**
-4. Upload or create your files
-5. Scroll down and click **"Commit changes"**
-6. Done! Your files are saved.
+Find your name in the list:
+- Yossef-Medhat-Ali
+- Ahmed-Ashour
+- Ahmed-Yasser
+- Fady-Samy
+- Hagar-Emadeldin-Emara
+- Marium-Waleed
+- Menna-Assem-Fouda
+- Mostafa-Tamer
+- Youssef-Bassem
+- Youssef-medhat-mahmoud
+- Mohamed-Ahmed-Ahmed
+- Mohamed-Mostafa-Abd-El-Aziz
 
-## 🔍 View Your Work
+## 📁 How to Upload Files Using Pull Requests
 
-After uploading, go back to the main page and select your branch to see your files.
+### Step 1: Fork the Repository
+1. Go to https://github.com/yossef-helal/ADI-Internship-2026
+2. Click the **Fork** button (top right)
+3. Click **Create fork**
+4. You now have your own copy!
+
+### Step 2: Upload Your Files
+1. Go to your forked repository
+2. Click your branch name from the list above
+3. Click **Add file** → **Upload files**
+4. Select your assignment files and upload them
+5. Scroll down and click **Commit changes**
+
+### Step 3: Create a Pull Request
+1. Go back to the original repository: https://github.com/yossef-helal/ADI-Internship-2026
+2. Click **Pull requests** tab
+3. Click **New pull request**
+4. Click **compare across forks**
+5. Select:
+   - **Base repository:** yossef-helal/ADI-Internship-2026
+   - **Base branch:** your-name
+   - **Head repository:** your-username/ADI-Internship-2026
+   - **Head branch:** your-name
+6. Click **Create pull request**
+7. Add a title like "Add Week 1 Assignments"
+8. Click **Create pull request**
+
+### Step 4: Wait for Approval
+- Yossef will review your pull request
+- Once approved, your files will be added to the main repository ✅
 
 ## ⚠️ Important
 
 - Only work on **your own branch**
-- Don't upload to the "main" branch
-- You can upload any file type (PDF, Word, code, images, etc.)
+- One pull request per assignment
+- Add clear titles and descriptions to your pull requests
+
+---
+
+Questions? Ask Yossef!
