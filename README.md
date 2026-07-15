@@ -4,13 +4,12 @@ Welcome to the class repository! Here's how to upload your assignments using the
 
 ## 📁 How to Upload Files
 
-1. Go to the repository: https://github.com/yossef-helal/ADI-Internship-2026
-2. Click the branch dropdown at the top left (currently showing "main")
-3. Select **your name** from the list
-4. Click **"Add file"** → **"Create new file"** or **"Upload files"**
-5. Upload or create your files
-6. Scroll down and click **"Commit changes"**
-7. Done! Your files are saved.
+1. Click the branch dropdown at the top left (currently showing "main")
+2. Select **your name** from the list
+3. Click **"Add file"** → **"Create new file"** or **"Upload files"**
+4. Upload or create your files
+5. Scroll down and click **"Commit changes"**
+6. Done! Your files are saved.
 
 ## 🔍 View Your Work
 
