@@ -2,22 +2,6 @@
 
 Welcome to the class repository! Here's how to upload your assignments using the website (no terminal needed).
 
-## 📋 Your Branch
-
-Find your name in the list and remember it:
-- Yossef-Medhat-Ali
-- Ahmed-Ashour
-- Ahmed-Yasser
-- Fady-Samy
-- Hagar-Emadeldin-Emara
-- Marium-Waleed
-- Menna-Assem-Fouda
-- Mostafa-Tamer
-- Youssef-Bassem
-- Youssef-medhat-mahmoud
-- Mohamed-Ahmed-Ahmed
-- Mohamed-Mostafa-Abd-El-Aziz
-
 ## 📁 How to Upload Files
 
 1. Go to the repository: https://github.com/yossef-helal/ADI-Internship-2026
@@ -37,7 +21,3 @@ After uploading, go back to the main page and select your branch to see your fil
 - Only work on **your own branch**
 - Don't upload to the "main" branch
 - You can upload any file type (PDF, Word, code, images, etc.)
-
----
-
-Questions? Ask Yossef!
