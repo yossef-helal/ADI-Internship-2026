@@ -34,7 +34,7 @@ Welcome to the class repository! Here's how to upload your assignments using pul
 ### Step 4: Wait for Approval
 - Once approved, your files will be added to the main repository ✅
 
-## 📁 Or you can upload Files Using direct access (Must send me you github username so I can add you as a collaborator)
+## 📁 Or you can upload Files Using direct access (Must send me you github username so I can add your as a collaborator)
 
 1. Go to the repository: https://github.com/yossef-helal/ADI-Internship-2026
 2. Click the branch dropdown at the top left (currently showing "main")
